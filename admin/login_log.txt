@@ -1,0 +1,11 @@
+-- Log Login Admin --[2025-07-16 17:46:53] UserID: admin | Status: BERHASIL | IP: ::1 | Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36 Edg/138.0.0.0
+[2025-07-17 02:34:07] UserID: admin | Status: BERHASIL | IP: ::1 | Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36 Edg/138.0.0.0
+[2025-07-17 02:44:33] UserID: admin | Status: BERHASIL | IP: ::1 | Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36 Edg/138.0.0.0
+[2025-07-17 02:56:16] UserID: admin | Status: BERHASIL | IP: ::1 | Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36 Edg/138.0.0.0
+[2025-07-17 03:08:02] UserID: admin | Status: BERHASIL | IP: ::1 | Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36 Edg/138.0.0.0
+[2025-07-17 03:30:15] UserID: admin | Status: BERHASIL | IP: ::1 | Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36 Edg/138.0.0.0
+[2025-07-17 03:35:27] UserID: admin | Status: BERHASIL | IP: ::1 | Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36 Edg/138.0.0.0
+[2025-07-17 03:37:46] UserID: admin | Status: BERHASIL | IP: ::1 | Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36 Edg/138.0.0.0
+[2025-07-17 03:53:38] UserID: admin | Status: BERHASIL | IP: ::1 | Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36 Edg/138.0.0.0
+[2025-07-17 04:23:27] UserID: admin | Status: BERHASIL | IP: ::1 | Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36 Edg/138.0.0.0
+[2025-07-17 04:26:16] UserID: admin | Status: BERHASIL | IP: ::1 | Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36 Edg/138.0.0.0

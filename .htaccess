@@ -1,0 +1,26 @@
+Options -Indexes
+
+RewriteEngine On
+RewriteBase /
+
+# Redirect index.php to root
+RewriteCond %{THE_REQUEST} /index\.php [NC]
+RewriteRule ^index\.php$ / [R=301,L]
+
+# Remove .php extension
+RewriteCond %{REQUEST_FILENAME} !-d
+RewriteCond %{REQUEST_FILENAME}\.php -f
+RewriteRule ^(.+)$ $1.php [L,QSA]
+
+# Route untuk berita
+RewriteRule ^news/([^/]+)$ news_detail.php?slug=$1 [QSA,L]
+
+# Hindari menangkap semua permintaan
+# Jangan pakai ini jika tidak punya router khusus
+# RewriteRule . index.php [L]
+
+# Matikan error display (untuk keamanan)
+php_flag display_errors On
+
+# Matikan expose_php agar versi PHP tidak terlihat di header
+php_value expose_php 0

@@ -1,0 +1,58 @@
+-- Log Edit Akun --
+
+=== EDIT USERNUM: 2 | TANGGAL: 2025-07-17 07:06:30 (WIB) ===
+Admin: admin
+UserPoint: '1369680' -> '0'
+===============================
+
+=== EDIT USERNUM: 1003 | TANGGAL: 2025-07-17 07:34:12 (WIB) ===
+Admin: admin
+UserPoint: '119966' -> '0'
+===============================
+
+=== EDIT USERNUM: 1004 | TANGGAL: 2025-07-17 08:08:12 (WIB) ===
+Admin: admin
+UserPoint: '55000' -> '0'
+===============================
+
+=== EDIT USERNUM: 2 | TANGGAL: 2025-07-17 08:19:46 (WIB) ===
+Admin: admin
+UserPoint: '500' -> '0'
+===============================
+
+=== EDIT USERNUM: 1003 | TANGGAL: 2025-07-17 08:19:52 (WIB) ===
+Admin: admin
+UserPoint: '5500' -> '0'
+===============================
+
+=== EDIT USERNUM: 1003 | TANGGAL: 2025-07-17 08:35:35 (WIB) ===
+Admin: admin
+UserPoint: '12000' -> '0'
+===============================
+
+=== EDIT USERNUM: 1003 | TANGGAL: 2025-07-17 08:48:41 (WIB) ===
+Admin: admin
+UserPoint: '12000' -> '0'
+===============================
+
+=== EDIT USERNUM: 1004 | TANGGAL: 2025-07-17 09:29:20 (WIB) ===
+Admin: admin
+Referral: '' -> 'gegegaming'
+===============================
+
+=== EDIT USERNUM: 2 | TANGGAL: 2025-07-18 05:27:18 (WIB) ===
+Admin: admin
+UserPoint: '61000' -> '0'
+PlayTime: '58' -> '612'
+===============================
+
+=== EDIT USERNUM: 1003 | TANGGAL: 2025-07-18 05:27:24 (WIB) ===
+Admin: admin
+UserPoint: '12000' -> '0'
+===============================
+
+=== EDIT USERNUM: 1004 | TANGGAL: 2025-07-18 05:27:29 (WIB) ===
+Admin: admin
+UserPoint: '5000' -> '0'
+===============================
+
